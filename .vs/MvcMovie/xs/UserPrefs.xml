@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{02381866-ACAF-4840-979C-B48584728B33}|Default">
+  <MonoDevelop.Ide.ItemProperties.MvcMovie PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MvcMovie/Controllers/MoviesController.cs">
+    <Files>
+      <File FileName="MvcMovie/Views/Movies/Index.cshtml" Line="12" Column="67" />
+      <File FileName="MvcMovie/Controllers/MoviesController.cs" Line="21" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MvcMovie" expanded="True">
+            <Node name="MvcMovie" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="MoviesController.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="HelloWorld" expanded="True" />
+                <Node name="Home" expanded="True" />
+                <Node name="Movies" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
